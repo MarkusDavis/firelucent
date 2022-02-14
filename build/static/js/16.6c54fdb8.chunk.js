@@ -1,2 +1,0 @@
-(this.webpackJsonpinstagram=this.webpackJsonpinstagram||[]).push([[16],{659:function(t,e,n){"use strict";n.r(e),n.d(e,"default",(function(){return r}));var c=n(3),s=n(1),a=n(191);function r(){return Object(s.useEffect)((function(){document.title="Not Found - Instagram"}),[]),Object(c.jsxs)("div",{className:"bg-gray-background",children:[Object(c.jsx)(a.a,{}),Object(c.jsx)("div",{className:"mx-auto max-w-screen-lg",children:Object(c.jsx)("p",{className:"text-center text-2xl",children:"Not Found!"})})]})}}}]);
-//# sourceMappingURL=16.6c54fdb8.chunk.js.map
